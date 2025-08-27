@@ -6,6 +6,6 @@ Feito somente em Python, o projeto consiste em mesclar vários arquivos PDFs em 
 
 🛠️ Tecnologias utilizadas Python: Linguagem principal
 
-📚 Biblioteca PyPDF2: Manipular PDFs
+📚 Biblioteca PyPDF2: Utilizado para manipular PDFs
 
 
