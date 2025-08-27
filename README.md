@@ -1,4 +1,4 @@
-# automação-arq-pdf
+# automatizando-arq-pdf
 # Automação para mesclar PDFs com Python 😊
 
 Projeto desenvolvido para mesclar PDFs com Python. 
